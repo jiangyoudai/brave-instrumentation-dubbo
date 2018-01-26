@@ -1,0 +1,2 @@
+consumerFilter=com.hd123.cloudscm.commons.trace.dubbo.ConsumerTraceFilter
+providerFilter=com.hd123.cloudscm.commons.trace.dubbo.ProviderTraceFilter
